@@ -7,7 +7,7 @@ Nosso objetivo era criar um servidor Express que escutasse nossos métodos GET, 
 
 ---
 
-**[Instruções do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios)**
+**[Instruções do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)**
 
 Este desafio consistiu em:
 - [x] Criar um novo repositório
